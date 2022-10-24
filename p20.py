@@ -12,4 +12,4 @@ class iterator(object):
 				yield i
 
 for num in iterator(100).divBySeven():
-	print num
+	print(num)
